@@ -1,0 +1,33 @@
+{
+    "name": "Minecraft-EE-MakeCode",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*",
+        "seymour": "github:CausewayDigital/Minecraft-EE-MakeCode"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "pxt.json",
+        "_history",
+        "images.g.jres",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.7.28",
+        "tag": "v1.7.28",
+        "commits": "https://github.com/microsoft/pxt-minecraft/commits/43da08b76c2f6625ff14c4dd6110a975e16396e8",
+        "target": "1.7.28",
+        "pxt": "9.2.8",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
